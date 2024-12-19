@@ -1,4 +1,4 @@
-# Machine Learning Project Repository
+# Machine Learning Project 
 
 This repository contains Jupyter Notebook files demonstrating key concepts in machine learning through practical examples. Below is a concise overview of the projects and their objectives.
 
